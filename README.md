@@ -22,22 +22,23 @@ You will have an up and running server at http://localhost:8000
 
 ### File Structure
 
-> ├── assets
-> │   ├── css
-> │   │   └── main.css
-> │   ├── fonts
-> │   ├── images
-> │   ├── js
-> │   │   ├── main.js
-> │   │   └── vendor
-> │   │       ├── jquery.min.js
-> │   │       └── uikit
-> │   └── sass
-> │       ├── main.scss
-> │       ├── partials
-> │       └── uikit
-> └── index.html
-
+```sh
+├── assets
+│   ├── css
+│   │   └── main.css
+│   ├── fonts
+│   ├── images
+│   ├── js
+│   │   ├── main.js
+│   │   └── vendor
+│   │       ├── jquery.min.js
+│   │       └── uikit
+│   └── sass
+│       ├── main.scss
+│       ├── partials
+│       └── uikit
+└── index.html
+```
 
 
 License
